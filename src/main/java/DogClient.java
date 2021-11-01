@@ -4,7 +4,7 @@ public class DogClient {
         d1.setBreed("English Greyhound");
         d1.setAge(3);
         d1.setName("Doggy");
-        System.out.println(d1.toString());
+        System.out.println(d1);
         System.out.println();
         d1.makeNoise();
     }
